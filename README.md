@@ -8,7 +8,7 @@
         <p>Teléfono: +34 629 071 739</p>
     </div>
     <div style="flex: 0 0 auto;">
-        <img src="assets/foto.jpeg" alt="Foto de Juan Pérez" style="width: 150px; height: auto; border-radius: 75px;">
+        <img src="assets/foto.jpeg" alt="Rodrigo Olmo Velasco" style="width: 150px; height: auto; border-radius: 75px;">
     </div>
 </div>
 
