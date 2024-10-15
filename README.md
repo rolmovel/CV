@@ -8,7 +8,7 @@
         <p>Teléfono: +34 629 071 739</p>
     </div>
     <div style="flex: 0 0 auto;">
-        <img src="assets/foto.jpeg" alt="Foto de Juan Pérez" style="width: 150px; height: auto; border-radius: 75px;">
+        <img src="assets/foto.jpeg" alt="Rodrigo Olmo Velasco" style="width: 150px; height: auto; border-radius: 75px;">
     </div>
 </div>
 
@@ -36,8 +36,6 @@ _(Febrero 2022 – Actualidad)_ | Madrid
 - **Tecnologías:** Spark3 (Api Java), Cloudera, HIVE, ORC, Kafka, S3, AWS, S3, Schema Registry.
 
 
----
-
 
 ### **Stratio** – Ingeniero de software
 _(Abril 2019 – Febrero 2022)_ | Madrid
@@ -48,8 +46,6 @@ _(Abril 2019 – Febrero 2022)_ | Madrid
 - **Tecnologías:** Cloudera, Spark, HIVE, Apache Kudu, Spring Microservices, Saga Pattern, Kafka, HL7, HIS
 
 
----
-
 
 ### **Synergy Inc** – CTO  
 _(Mayo 2018 – Abril 2019)_ | Madrid
@@ -58,17 +54,12 @@ _(Mayo 2018 – Abril 2019)_ | Madrid
 - **Tecnologías:** API REST (Spring, JWT), agentes AKKA, Redis, Elasticsearch, PostgreSQL, Websockets, AWS (Codecommit, ECS, S3, Cloudfront, Cloudwatch, Cloudformation, Elasticsearch, RDS, EC2), GCE (Kubernetes Engine, Compute Engine, SQL)
 
 
----
-
 
 ### **GFT** – Ingeniero Desarrollo  
 _(Septiembre 2016 – Mayo 2018)_ | Madrid
 
 - **Funciones:** Desarrollo microservicios para aplicaciones clientes de Bankia y componentes para el área de Bigdata.
 - **Tecnologías:** Logstash, Kafka, Redis, ElasticSeach, Kibana, Springboot, API Rest, Docker.
-
-
----
 
 
 ### **Keedio** – Ingeniero Big Data  
@@ -80,8 +71,6 @@ Implementación de API Rest con SpringMVC sobre Azure.
 - **Tecnologías:** Flume, Logstash, Kafka, Storm, Spark, Scala, Zeppelin, D3, DocumentDB, Redis, ElasticSeach, Kibana, HDFS, Map-Reduce, AngularJS, Springboot, API Rest,.
 
 
----
-
 
 ### **Mepaban** – Dpto Gestión de Incidencias  
 _(Agosto 2013 – Febrero 2014)_ | Madrid
@@ -91,17 +80,12 @@ _(Agosto 2013 – Febrero 2014)_ | Madrid
     - Análisis de las incidencias relacionadas entre sí como patrón de problemas
 
 
----
-
-
 ### **Media Investments** – Socio/CTO  
 _(Noviembre 2012 – Agosto 2013)_ | Madrid
 
 - **Funciones:** Definición de la estrategia tecnológica y responsable de la plataforma MIP enfocada a la compra venta de publicidad en medios. Arranque de la StartUp, definición del modelo de negocio.
 - **Tecnologías:** PaaS Openshift, Pusher, Mailgun, MongoDB
 
-
----
 
 
 
@@ -115,8 +99,6 @@ Mencionar que el proyecto ha sido galardonado con prestigiosos premios, siendo f
 - **Tecnologías:** JEMS (Arquitectura JBoss), JBoss messaging, BlazeDS (integración de clientes ricos Flex y JBoss AS), EJB3.0, .NET, C, algoritmos evolutivos (genético y VNS).
 
 
----
-
 
 ### **Tecnalis Solution Provider** – Arquitecto software  
 _(Febrero 2007 – Agosto 2009)_ | Madrid
@@ -124,8 +106,6 @@ _(Febrero 2007 – Agosto 2009)_ | Madrid
 - **Funciones:** Análisis y construcción de middleware para plataforma de juegos en Internet. Toma de requisitos, definición de solución y alternativas e implementación. Soluciones de alta disponibilidad y tolerancia a fallos (JBoss, Linux Virtual Server)
 - **Tecnologías:** JEMS (Arquitectura JBoss), JBoss messaging, JBoss Cache, OpenCMS (gestor de contenidos web), OpenAMF (integración de clientes ricos Flex y JBoss AS), EJB3.0, Enterprise Architect, LVS.
 
-
----
 
 
 ### **INDRA** – Analista funcional  
@@ -135,8 +115,6 @@ _(Marzo 2005 – Febrero 2007)_ | Madrid
 - **Tecnologías:** Oracle 10g, PLSQL-Developer, Enterprise Architect, Visual Basic 6, Erwin.
 
 
----
-
 
 ### **Cap Gemini** – Consultor Senior  
 _(Marzo 2003 – Febrero 2005)_ | Madrid
@@ -144,8 +122,6 @@ _(Marzo 2003 – Febrero 2005)_ | Madrid
 - **Funciones:** Migración de aplicación de Cartera de Seguros de Vida y No vida de Santa Lucía. Análisis de la aplicación de migración. Coordinación del equipo de diseño y desarrollo.
 - **Tecnologías:** Servidor de apliaciones Oracle 9IAS, Informix, Together (UML), Excelerator (metodología Jourdon) Jbuilder 8, Pbuilder, C, middleware Topend y GDMN, Struts 1.1.
 
-
----
 
 
 ### **Algor Consultoría y Sistemas** – Analista  
@@ -155,8 +131,6 @@ _(Diciembre 2001 – Marzo 2003)_ | Valladolid
 - **Tecnologías:** Java (JSPs y Servlets), Tomcat, JavaScript, HTML, Oracle 8i,  EJB, JDeveloper 9i, EA (herramienta para análisis UML),patrones: MVC, DAO, VelueListIterator.
 
 
----
-
 
 ### **Dharma Ingeniería** – Analista Consultor  
 _(Mayo 2001 – Noviembre 2001)_ | Madrid
@@ -165,7 +139,6 @@ _(Mayo 2001 – Noviembre 2001)_ | Madrid
 - **Tecnologías:** Java, Oracle 9i.
 
 
----
 
 ### **Felizidades Network** – Departamento de desarrollo y recursos de investigación  
 _(Marzo 2000 – Mayo 2001)_ | Madrid
@@ -174,7 +147,6 @@ _(Marzo 2000 – Mayo 2001)_ | Madrid
 - **Tecnologías:** JSP, Servlets, Java1.2, JavaBeans, Servidor Web Allaire JRUN.
 
 
----
 
 
 ### **Grupo Delta Ingeniería** – Departamento de desarrollo  
