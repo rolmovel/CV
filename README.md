@@ -62,7 +62,7 @@ _(Mayo 2018 – Abril 2019)_ | Madrid
 
 
 ### **GFT** – Ingeniero Desarrollo  
-_(Noviembre 2012 – Agosto 2013)_ | Madrid
+_(Septiembre 2016 – Mayo 2018)_ | Madrid
 
 - **Funciones:** Desarrollo microservicios para aplicaciones clientes de Bankia y componentes para el área de Bigdata.
 - **Tecnologías:** Logstash, Kafka, Redis, ElasticSeach, Kibana, Springboot, API Rest, Docker.
@@ -84,7 +84,7 @@ Implementación de API Rest con SpringMVC sobre Azure.
 
 
 ### **Mepaban** – Dpto Gestión de Incidencias  
-_(Noviembre 2012 – Agosto 2013)_ | Madrid
+_(Agosto 2013 – Febrero 2014)_ | Madrid
 
 - **Funciones:** Análisis pro-activo de incidencias en busca de problemas (causa raíz de incidencias):
     - Estudio de las incidencias acaecidas 
