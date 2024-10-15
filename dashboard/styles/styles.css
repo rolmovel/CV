@@ -14,6 +14,11 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.container timeline{
+    max-width: 70%;
+    background: green;
+}
+
 header {
     margin-bottom: 30px;
 }
