@@ -12,6 +12,9 @@
     </div>
 </div>
 
+Bienvenidos
+- [CV in English](README-en.md)
+- [CV en Español](README.md)
 ---
 
 ## **Resumen Profesional**
