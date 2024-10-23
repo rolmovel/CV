@@ -1,6 +1,6 @@
 Welcome to my CV
-- [CV en Español](README.md)
-- [CV in English](README-en.md)
+- [CV en Español](README.md) and [PDF](README.pdf)
+- [CV in English](README-en.md) and [PDF](README-en.pdf)
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; padding-right: 20px;">
