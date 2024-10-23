@@ -5,7 +5,7 @@ Welcome to my CV
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; padding-right: 20px;">
         <h1>Rodrigo Olmo Velasco</h1>
-        <p>Arquitecto Big Data</p>
+        <p>IT Architect</p>
         <p>Madrid, España</p>
         <p>Email: rolmovel@gmail.com</p>
         <p>Teléfono: +34 629 071 739</p>
