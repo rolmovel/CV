@@ -167,6 +167,7 @@ _(Noviembre 1999 – Marzo 2000)_ | Tres Cantos, Madrid
 - **Master en Big Data & Visual Analitics** – Universidad de la Rioja
 
 ### Otros cursos complementarios
+- **AWS Cloud Practitioner Essentials** - edX
 - **Arquitectura Big Data** - SEPE
 - **Domótica y Hogar digital** - SEPE
 - **Teledetección aplicada a la agricultura de precisión** - SEPE
