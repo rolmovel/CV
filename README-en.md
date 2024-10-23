@@ -1,3 +1,6 @@
+Welcome to my CV
+- [CV en Español](README.md)
+- [CV in English](README-en.md)
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; padding-right: 20px;">
@@ -12,9 +15,6 @@
     </div>
 </div>
 
-Welcome
-- [CV en Español](README.md)
-- [CV in English](README-en.md)
 ---
 
 ## **Professional Summary**
