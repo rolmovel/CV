@@ -151,6 +151,9 @@ _(November 1999 – March 2000)_ | Tres Cantos, Madrid
 - **Master in Big Data & Visual Analytics** – Universidad de La Rioja
 
 ### Other complementary courses
+- **Neural Networks and Deep Learning** - Coursera
+- **Multi AI Agent Systems with crewAI** - Deepelearning.ai
+- **Functions, Tools and Agents with LangChain** - Deeplearning.ai
 - **AWS Cloud Practitioner Essentials** - edX
 - **Big Data Architecture** - SEPE
 - **Home Automation and Digital Home** - SEPE
